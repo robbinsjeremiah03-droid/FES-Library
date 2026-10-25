@@ -244,9 +244,9 @@ HIGHLIHTS
     position: relative;
 }
 
-#highlight::after
+#highlights::after,
 #highlights:before{
-    background-image: url('assets/wave.svg');
+    background-image: url('e-commerce resources/assets/wave.svg');
     content: "";
     position: absolute;
     left: 0;
@@ -312,7 +312,7 @@ FEATURES
 
 */
 
-#features{
+#featured{
     padding-top: 8vw;
     background-color: rgb(115, 66, 214, 0.1);
 }
